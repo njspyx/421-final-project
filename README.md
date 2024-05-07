@@ -5,6 +5,7 @@ Object Detection in Images/Videos via YOLOv8
 We finetune a YOLOv8 model to:
 * detect aircrafts
 * detect and classify various vehicles
+
 Dataset creation and model deployment is done via `Roboflow`. Visualization is done using the `supervision` module.
 
 `model_finetuning.ipynb` contains scripts for model finetuning using Roboflow.
