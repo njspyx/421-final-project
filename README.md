@@ -9,6 +9,7 @@ We finetune a YOLOv8 model to:
 Dataset creation and model deployment is done via `Roboflow`. Visualization is done using the `supervision` module.
 
 `model_finetuning.ipynb` contains scripts for model finetuning using Roboflow.
+
 `421_final_GUI.ipynb` contains python UI to allow users to annotate images with bounding boxes and annotate videos with bounding boxes, traces, and heatmap.
 
 Links to Deployment via Roboflow: 
